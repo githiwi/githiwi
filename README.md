@@ -1,7 +1,7 @@
 Hi 👋 My name is Hiwot Eticha
 ==============================
 
-Full Stack Web Dev
+Junior Full Stack Web Developer 
 ------------------
 
 * 🌍  I'm based in Berlin
