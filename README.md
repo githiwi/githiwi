@@ -1,4 +1,4 @@
-Hi 👋 My name is Hiwot Ethicha
+Hi 👋 My name is Hiwot Eticha
 ==============================
 
 Full Stack Web Dev
