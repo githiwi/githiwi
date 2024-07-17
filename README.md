@@ -1,11 +1,11 @@
-Hi 👋 My name is Hiwot Eticha
+Hi 👋 My name is Hiwot Eticha 
 ==============================
 
-Junior Full Stack Web Developer 
+Junior Full Stack Web Developer who thrives on tackling tricky puzzles and crafting creative solutions
 ------------------
 
 * 🌍  I'm based in Berlin
-* ⚡  In a serious relationship with code, but it's complicated! 💔👩‍💻😅
+* ⚡  In a serious relationship with code, but it's complicated!👩‍💻😅
 
 ### Skills
 
